@@ -33,5 +33,6 @@ namespace Expedia
 		private bool Equals(Hotel obj) {
 			return obj.numberOfNightsToRent.Equals(this.numberOfNightsToRent);
 		}
+
 	}
 }
